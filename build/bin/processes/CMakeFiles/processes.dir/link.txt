@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprocesses.a  CMakeFiles/processes.dir/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/processes/process.cpp.o
+/usr/bin/ranlib libprocesses.a

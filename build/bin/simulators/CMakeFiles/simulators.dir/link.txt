@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimulators.a  CMakeFiles/simulators.dir/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/simulators/resolver.cpp.o
+/usr/bin/ranlib libsimulators.a

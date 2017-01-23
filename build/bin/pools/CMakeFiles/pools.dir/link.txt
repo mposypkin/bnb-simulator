@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpools.a  CMakeFiles/pools.dir/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/abstract_task_pool.cpp.o CMakeFiles/pools.dir/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/simple_pool.cpp.o
+/usr/bin/ranlib libpools.a

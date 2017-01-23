@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../BNB-solver/util/common/bnberrcheck.hpp
+stdio.h
+-
+stdlib.h
+-
+
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/abstract_task_pool.cpp
+abstract_task_pool.hpp
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/abstract_task_pool.hpp
+
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/abstract_task_pool.hpp
+util/common/bnberrcheck.hpp
+-
+pool_strategies.hpp
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/pool_strategies.hpp
+task.hpp
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/task.hpp
+utility
+-
+
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/pool_strategies.hpp
+
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/simple_pool.cpp
+simple_pool.hpp
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/simple_pool.hpp
+
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/simple_pool.hpp
+abstract_task_pool.hpp
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/abstract_task_pool.hpp
+set
+-
+
+/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/pools/task.hpp
+
