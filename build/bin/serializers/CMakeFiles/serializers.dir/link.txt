@@ -1,2 +1,0 @@
-/usr/bin/ar qc libserializers.a  CMakeFiles/serializers.dir/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/serializers/serializer.cpp.o
-/usr/bin/ranlib libserializers.a

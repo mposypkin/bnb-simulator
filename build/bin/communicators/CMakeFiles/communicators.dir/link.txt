@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcommunicators.a  CMakeFiles/communicators.dir/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/communicators/communicator.cpp.o CMakeFiles/communicators.dir/home/mposypkin/exp/simulate/bnb-simulator/bnb-simulator/communicators/timer.cpp.o
-/usr/bin/ranlib libcommunicators.a
